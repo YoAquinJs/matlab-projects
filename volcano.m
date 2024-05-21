@@ -2,11 +2,6 @@ clc
 close all
 clear all
 
-%TODO para andrey:
-%Arreglar el bug de la primera simulacion siendo una linea
-%Bug the marco de referencia cuando hay un unico plot
-%Poner el area de contacto porfis
-
 global inputUsuario;
 inputUsuario = strcmpi(input('Input de usuario (s/n) ', 's'),'s');
 
