@@ -1,3 +1,7 @@
-# volcano-simulatio
+# University Matlab Projects
 
-Matlab simulation for parabolic motion with air resistance, using Euler's numeric method for aproximation
+Matlab simulations for university math and physics courses.
+
+- Volcano simulation
+- F1 car simulation
+- Electric field simulation
