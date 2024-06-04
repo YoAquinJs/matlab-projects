@@ -1,4 +1,4 @@
-function [x,y] = rk_2_middle(func, y0, interval, h)
+function [y] = rk_2_middle(func, y0, interval, h)
     x = interval(1):h:interval(2);
     N = length(x);
     y = zeros(1,N);
